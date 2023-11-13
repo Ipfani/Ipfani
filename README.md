@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ipfani
+**Hi, I’m @Ipfani** 👋 
 - 👀 I’m interested in Software Developmennt, apiring Machine Learning Engineer.
 - 🌱 I’m currently learning Software Development.
-- 💞️ ...
+- 💞️ C++, Python
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ipfani-mutavhatsindi)
 
 <!---
